@@ -1,0 +1,19 @@
+/* .container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    background-color: rgb(246, 248, 250);
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-bottom: 100px;
+    align-items: center;
+}
+.form  input {
+    width: 10px;
+}
+.container >  form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+} */

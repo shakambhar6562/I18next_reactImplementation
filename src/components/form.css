@@ -1,0 +1,20 @@
+.FormContainer {
+    width: 100%;
+    background-color: aqua;
+    margin-top: 100px;
+    height: 40vh;
+}
+.innerformcontainer {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

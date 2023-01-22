@@ -1,0 +1,27 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    padding-left: 30px;
+    
+}
+.Header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(235, 235, 235);
+    align-items: center;
+
+}
+div > ul {
+    list-style: none;
+    display: flex;
+    margin-right: 100px;
+
+}
+li {
+    margin-right: 100px;
+}
+div > ul > li {
+    padding-right: 30px;
+    margin-right: 100px;
+
+}
